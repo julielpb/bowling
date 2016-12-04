@@ -135,7 +135,7 @@ public class SequenceImpl implements Sequence {
                     }
                 }
             }
-            scoreTotal += scoreJeu + 1;
+            scoreTotal += scoreJeu;
         }
         return scoreTotal;
     }
