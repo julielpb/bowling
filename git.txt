@@ -1,0 +1,26 @@
+licence ! help - register (haut droit moodle)
+
+git bash : ctrl alt s -- tool --terminal -- "C:\Program Files\Git\bin\sh.exe" --login -i
+
+target caché : click droit projet -- open module settings
+
+git init
+touch .gitignore
+c/c pom
+VCS enabled vcs --> Git
+git status
+git add .
+git commit -m ""
+git remote add origin http://...
+git push origin master
+git branch name
+git checkout branche
+run -- edit config -- + -- clean package / clean test site
+git checkout branch1
+git merge branche
+git checkout master
+git merge --no-ff branche
+git push origin master 
+git branch -d nomBranch
+
+git pull origin master
